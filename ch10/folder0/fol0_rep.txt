@@ -1,0 +1,5 @@
+reading this file and
+replacing strings "ACTION" and
+"ITEM":
+
+    item actioned and barked. then    ...          

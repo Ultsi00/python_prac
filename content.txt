@@ -1,0 +1,42 @@
+*******************
+Running a python file in terminal:
+type "python3 <file_name>"
+*******************
+Syntax:
+
+ch2
+lower(), upper(), f"", title(), print(), lstrip(), rstrip(), strip(), removeprefix(), removesuffix(), CONST
+
+ch3
+list = [], append(), insert(), del, pop(), remove(), sort(), sorted(), reverse(), reverse=True
+
+ch4
+for, while, range(), min(), max(), sum(), List comprehension, slicing, list copying, tuple
+
+ch5
+if-elif-else, list scanning, boolean expressions, empty list check, list combination
+
+ch6
+Dictionary, Key-Value pair, adding and deleting pairs, Empty dictionary, Mofifying values, get(), 
+looping a dictionary, items(), accessing only keys/values, values(), set(), list of dictionaries
+dictionary in a dictionary
+
+ch7
+input(), dividing string to separate rows, typecast: int(), input in a loop, break/continue
+
+ch8
+ch8.py: basic functions, key value arguments, Default value as function argument, special value None
+    calling a function with a list (copy of a list), passing an arbitrary number of arguments (list),
+    Arbitrary keyword arguments (dictionary)
+ch8_ex0.py: module, import, as, from, alias
+
+ch9
+#classes, class import syntax, instantiation, Inheritance, Composition
+
+ch10
+pathlib module, Path(), reading from file: read_text(), writing to file: write_text(),
+splitlines(), enumerate(), replace(), try-except-else, pass
+
+json
+json.loads(), json.dumps(), exists()
+
